@@ -1,0 +1,7 @@
+{
+    "name": "@imgnx/json-2-html",
+    "type": "module",
+    "devDependencies": {
+        "@imgnx/random-color": "^1.2.3-alpha"
+    }
+}
