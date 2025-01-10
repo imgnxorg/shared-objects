@@ -1,0 +1,6 @@
+[submodule "utils/sleep"]
+	path = utils/sleep
+	url = https://github.com/imgnxorg/sleep
+[submodule "utils/color/random-color"]
+	path = utils/color/random-color
+	url = https://github.com/imgnxorg/random-color
